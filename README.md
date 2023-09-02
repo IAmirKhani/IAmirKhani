@@ -46,16 +46,16 @@
 ## 💼 Work Experience
 
 ### Research Intern  
-<img src="https://www.ipm.ac.ir/img/logo250.png" width="100">
-**Institute for Research in Fundamental Sciences (IPM), Tehran**  
-July 2022 - September 2022  
-- Worked on Spiking Neural Networks.
+<p><img src="https://www.ipm.ac.ir/img/logo250.png" width="100" align="left" hspace="10"><strong>Institute for Research in Fundamental Sciences (IPM), Tehran</strong><br>
+July 2022 - September 2022<br>
+- Worked on Spiking Neural Networks.</p>
+<br clear="both">
 
-### Research Intern
-<img src="https://www.ipm.ac.ir/img/logo250.png" width="100">    
-**Institute for Research in Fundamental Sciences (IPM), Tehran**  
-July 2023 - Present  
-- Specialized in neural data analysis and psychophysics experiments design.
+### Research Intern  
+<p><img src="https://www.ipm.ac.ir/img/logo250.png" width="100" align="left" hspace="10"><strong>Institute for Research in Fundamental Sciences (IPM), Tehran</strong><br>
+July 2023 - Present<br>
+- Specialized in neural data analysis and psychophysics experiments design.</p>
+<br clear="both">
 
 ## 🎓 Courses Attended
 
