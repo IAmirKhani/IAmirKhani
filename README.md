@@ -71,9 +71,7 @@ July 2023 - Present<br>
 ## 📧 Contact Me
 
 - 📧 Email: [i.khani.amir@gmail.com](mailto:i.khani.amir@gmail.com)
-- 📱 Phone: [+989188284508](tel:+989188284508)
 - 🌐 LinkedIn: [IAmirKhani](https://www.linkedin.com/in/IAmirKhani/)
-- 💼 GitHub: [mohammadamir-khani](https://github.com/mohammadamir-khani)
 
 ---
 
