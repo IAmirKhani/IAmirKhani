@@ -6,7 +6,7 @@
 
 🔍 My research interests lie in Systems Neuroscience, Computational Neuroscience, Cognitive Science, and Artificial Intelligence.
 
-🎯 I'm highly experienced in Python, Rust, C, C++, and more.
+🎯 I'm highly experienced in Python, MATLAB, C, C++, and more.
 
 🔥 Eager to contribute to cutting-edge research and development projects.
 
