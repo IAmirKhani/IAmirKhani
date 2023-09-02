@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-🏫 I'm currently a Bachelor's student in Computer Science at [Amirkabir University of Technology, Tehran](#).
+🏫 I'm currently a Bachelor's student in Computer Science at [Amirkabir University of Technology, Tehran](https://aut.ac.ir/en).
 
 🔍 My research interests lie in Systems Neuroscience, Computational Neuroscience, Cognitive Science, and Artificial Intelligence.
 
@@ -65,8 +65,8 @@ July 2023 - Present
 
 ## 📚 Projects
 
-- [Neural Activity Prediction using RNN](#)  
-- [Pupillary Responses Relationship and Cross-Region Insights](#)
+- [Neural Activity Prediction using RNN](https://github.com/IAmirKhani/Neural-response-prediction-using-RNN)  
+- [Pupillary Responses Relationship and Cross-Region Insights](https://github.com/IAmirKhani/Pupillary-Responses-Relationship)
 
 ## 📧 Contact Me
 
