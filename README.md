@@ -34,7 +34,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 
-- **Python Libraries**: Numpy, Pandas, Matplotlib, TensorFlow, PyTorch, etc.
+- **Python Libraries**:
+<p>
+  <img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy" alt="Numpy">
+  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" alt="PyTorch">
+</p>
 - **Other**: Git, Docker, Django, Microsoft Office, LaTeX, AFNI, FSL.
 
 ## 🌐 Languages
