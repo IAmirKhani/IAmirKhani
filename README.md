@@ -42,13 +42,6 @@
   <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow">
   <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" alt="PyTorch">
 </p>
-- **Other**: Git, Docker, Django, Microsoft Office, LaTeX, AFNI, FSL.
-
-## 🌐 Languages
-
-- Farsi (Native)
-- Kurdish (Native)
-- English (Professional)
 
 ## 💼 Work Experience
 
