@@ -35,12 +35,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 
 - **Python Libraries**:
-<p>
-  <img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy" alt="Numpy">
-  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas">
-  <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" alt="PyTorch">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=numpy" alt="Numpy" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas" alt="Pandas" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge&logo=matplotlib" alt="Matplotlib" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" alt="TensorFlow" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch" alt="PyTorch" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras" alt="Keras" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-scikit_learn-black?style=for-the-badge&logo=scikit-learn" alt="scikit-learn" style="margin: 5px;">
 </p>
 
 ## 💼 Work Experience
