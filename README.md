@@ -19,10 +19,6 @@
   Amirkabir University of Technology  
   GPA: 3.95/4
 
-- **Bachelor of Science in Biomedical Engineering**  
-  September 2019 - June 2021 (Not Completed)  
-  Amirkabir University of Technology
-
 ## 🛠 Skills
 
 <p align="center">
