@@ -71,7 +71,7 @@ July 2023 - Present<br>
 ## 📧 Contact Me
 
 - 📧 Email: [i.khani.amir@gmail.com](mailto:i.khani.amir@gmail.com)
-- 🌐 LinkedIn: [IAmirKhani](https://www.linkedin.com/in/IAmirKhani/)
+- 🌐 LinkedIn: [mohammadamir-khani](https://www.linkedin.com/in/mohammadamir-khani/)
 
 ---
 
