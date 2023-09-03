@@ -25,14 +25,17 @@
 
 ## 🛠 Skills
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=MathWorks)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" alt="Python" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=Rust" alt="Rust" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" alt="C" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B" alt="C++" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-MATLAB-black?style=for-the-badge&logo=MathWorks" alt="MATLAB" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5" alt="HTML" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3" alt="CSS" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript" alt="JavaScript" style="margin: 5px;">
+</p>
+
 
 - **Python Libraries**:
 
